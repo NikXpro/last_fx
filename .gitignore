@@ -1,0 +1,8 @@
+cache/
+start.bat
+essentialmode.db
+vmenu_bans.db
+db/
+imgui.ini
+resources/EasyAdmin/backups
+resources/[BASE]/[ESX]/[JOBS]/GangsBuilder/data

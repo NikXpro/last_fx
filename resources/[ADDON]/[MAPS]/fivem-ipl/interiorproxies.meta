@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<SInteriorOrderData>
+<startFrom value="2000" />
+<filePathHash value="0" />
+<proxies>
+<Item>int_storedt_milo_</Item>
+<Item>int_apteka_milo_</Item>
+<Item>int_mrpd_milo_</Item>
+<Item>hei_dt1_19_interior_0_heist_police_dlc_milo_</Item>
+<Item>!hei_dt1_19_interior_0_heist_police_dlc_milo_</Item>
+<Item>qnx_jud_milo_</Item>
+<Item>gabz_pillbox_milo_</Item>
+<Item>int_fvineyard_milo_</Item>
+<Item>int_garage_milo_</Item>
+<Item>baham_milo_</Item>
+<Item>hei_sm_16_interior_v_bahama_milo_</Item>
+</proxies>
+</SInteriorOrderData>
